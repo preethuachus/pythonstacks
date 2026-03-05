@@ -58,10 +58,10 @@
 #                         >>>>>>>>>>>>>>>>>>>>>>>>>NUMBER<<<<<<<<<<<<<<<<<<<<<<<<
 # RIGHT HALF PYRAMID IN J number increasing pyramid
 
-for  i in range(1,9):
-    for j in range(1,i):
-        print(j,end=" ")
-    print()
+# for  i in range(1,9):
+#     for j in range(1,i):
+#         print(j,end=" ")
+#     print()
 
 # RIGHT HALF PYRAMID IN I
 # for i in range(1,6):
